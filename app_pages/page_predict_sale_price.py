@@ -47,7 +47,7 @@ def page_predict_sale_price_body():
     # show best features
     st.write("* The features the model was trained and their importance.")
     #st.write(X_train.columns.to_list())
-    st.image(sale_price_feat_importance)
+    #st.image(sale_price_feat_importance)
     st.write("---")
 
     # evaluate performance on both sets
