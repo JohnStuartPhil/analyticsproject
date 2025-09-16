@@ -1,4 +1,3 @@
-kaggle.json
 *.ipynb
 __pycache__/
 outputs/datasets/cleaned/TestSetCleaned.csv
