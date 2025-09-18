@@ -40,7 +40,7 @@ def page_house_price_study_body():
 
     # Correlation Study Summary
     st.write(
-        f"* A correlation study was conducted in the notebook to better understand how "
+        f"* AAA correlation study was conducted in the notebook to better understand how "
         f"the variables are correlated to Churn levels. \n"
         f"The most correlated variable are: **{vars_to_study}**"
     )
